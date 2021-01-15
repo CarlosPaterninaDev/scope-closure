@@ -1,0 +1,25 @@
+{
+  "name": "scope-closures",
+  "version": "1.0.0",
+  "description": "Laboratorio para el manejo de scope, closure y hoisting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlycode/scope-closure.git"
+  },
+  "keywords": [
+    "javascript",
+    "scope",
+    "closure",
+    "hoisting"
+  ],
+  "author": "carlycode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlycode/scope-closure/issues"
+  },
+  "homepage": "https://github.com/Carlycode/scope-closure#readme"
+}
