@@ -2,10 +2,12 @@
 
 ## Manejo de Scope, Closure y Hoisting en JavaScript 
 
-Conceptos y ejemplos sobre el manejo del Scope, Closure, Hoisting **[ECMAScript](https://tc39.es/)**
+Conceptos y ejemplos sobre el manejo de **[Closure](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)**,
+**[Hoisting](https://developer.mozilla.org/es/docs/Glossary/Hoisting)**, y
+**[Scope](https://developer.mozilla.org/es/docs/Glossary/Scope)**
+
 
 ![alt text](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png "JavaScript LOGO")
-
 
 
 ___
